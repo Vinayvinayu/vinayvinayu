@@ -49,6 +49,7 @@
 -Linux
 -Test Driven Development, Domain Driven Development
 -Architecture
+-Distributed tracing using Zipkin
 -Coaching and mentoring team of developers
 -Agile-Scrum
 -Agile-Safe
