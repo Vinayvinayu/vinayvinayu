@@ -14,3 +14,55 @@
 - 💬 Ask me about Cloud Migration, Enterprise Architecture, Cloud based web applications with Java.
 
 - ⚡ I mostly keep updated with new technologies and I recently started pushing my POCs to Github.
+
+
+
+-Java
+-J2ee
+-Servlet
+-JSP
+-Struts
+-SOAP
+-Rest
+-Spring
+-Springboot
+-MicroServices
+-GraphQL
+-GraphDB
+-AWS
+-Kubernetes
+-Docker
+-Redis
+-ELK, DynaTrace
+-API Gatway
+-Angular
+-ReactJs]
+-Mysql, Oracle, DB2, Mongo, Redis
+-Jboss
+-Kafka
+-Websphere
+-Tomcat
+-Mockito
+-Jasmine
+-Jest
+-Jenkins
+-Linux
+-Test Driven Development, Domain Driven Development
+-Architecture
+-Coaching and mentoring team of developers
+-Agile-Scrum
+-Agile-Safe
+-Python
+-Machine Learning in progress
+-Hadoop long back
+-Technical thought leadership
+-Solving technial issues of team members
+-Leading design and architecture discussions, code reviews and ensuring teams follow modern engineering practices
+-Very strong knowledge of all development tools like Intellij, GIT, Maven, Artifactory, Github, Gitflow
+-Ability to work in large, collaborative teams to achieve organizational goals
+-Champion the adoption of reusable architecture assets to improve efficiency
+-Performance Tuning and troubleshooting
+
+
+
+
