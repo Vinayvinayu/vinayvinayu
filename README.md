@@ -65,6 +65,10 @@
 
 
 <b>Non Functional Requirement</b></br>
+A non-functional requirement defines the quality attribute of a software system.
+It is not mandatory.
+Applied to a system as a whole.
+
 Usability requirement
 Serviceability requirement
 Manageability requirement
@@ -79,7 +83,11 @@ Reliability requirement
 Maintainability requirement
 Regulatory requirement
 Environmental requirement<\br>
-
+Portability
+Reliability
+Performance
+Reusability
+Flexibility
 
 <b>examples of NFRs:</b>
 availability, scalability, reliability
