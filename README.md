@@ -64,5 +64,28 @@
 -Performance Tuning and troubleshooting
 
 
+<b>Non Functional Requirement</b></br>
+Usability requirement
+Serviceability requirement
+Manageability requirement
+Recoverability requirement
+Security requirement
+Data Integrity requirement
+Capacity requirement
+Availability requirement
+Scalability requirement
+Interoperability requirement
+Reliability requirement
+Maintainability requirement
+Regulatory requirement
+Environmental requirement<\br>
 
 
+<b>examples of NFRs:</b>
+availability, scalability, reliability
+Audit trails
+Logging requirements , zipkin
+response time
+number of simultaneous users supported
+portability between onpremise & multi cloud?
+Non-Functional Testing like Performance, Stress, Usability, Security testing, etc.
