@@ -110,4 +110,9 @@ Non-Functional Testing like Performance, Stress, Usability, Security testing, et
   - Strangler : incrementally migrate a legacy system, gradually replace functionality of application.
   
 ### Resiliency and Availability Patterns in cloud:
+  - Availability Patterns
+  - Data Management Patterns
+  - Design and Implementation patterns
+  - Performance and Scalability Patterns
+  - Resilience patterns
 
