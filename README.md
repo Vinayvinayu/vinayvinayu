@@ -98,3 +98,16 @@ response time
 number of simultaneous users supported
 portability between onpremise & multi cloud?
 Non-Functional Testing like Performance, Stress, Usability, Security testing, etc.
+
+### Design patterns for new applications:
+  - External Configuration : externalizing credentials using Azure Vault or Hashicorp Vault etc.
+  - Cache Aside : This is a standard Caching pattern where we cache most frequently used read only data.
+  - Federated Identity : oauth2 using Azure AD, siteminder etc.
+  - Valet Key : This is similar to providing a token by Azure Blob or AWS S3 for temporary time/ used based access.
+  - Gatekeeper : Example Web Application Firewall in AWS.
+  - Circuit Breaker: In a micro service environment when one of the service is not working the micro service will open the circuit and a gracefull error message/ valid values is sent back to the calling service.
+  - Retry : retry when some external service fails transiently.
+  - Strangler : incrementally migrate a legacy system, gradually replace functionality of application.
+  
+### Resiliency and Availability Patterns in cloud:
+
