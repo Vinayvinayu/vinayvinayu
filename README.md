@@ -18,6 +18,7 @@
 
 
 -Java
+-Nodejs
 -J2ee
 -Servlet
 -JSP
@@ -40,6 +41,8 @@
 -Mysql, Oracle, DB2, Mongo, Redis
 -Jboss
 -Kafka
+-SQS
+-Kinesis Streams
 -Websphere
 -Tomcat
 -Mockito
